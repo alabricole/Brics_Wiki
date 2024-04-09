@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <atom:link href="https://alabricole.github.io/Brics_Wiki/files/files/xml.rss" rel="self" type="application/rss+xml" />
+  <title>Libro</title>
+  <link>https://libro.tiddlyhost.com</link>
+  <description>A custom tiddlywiki edition</description>
+  <language>en-EN</language>
+  <lastBuildDate>Tue, 09 Apr 2024 16:34:55 GMT</lastBuildDate>
+	<item>
+      <title>Added a button to edit a tiddler in a new, single window</title>
+      <description></description>
+      <category>article</category>
+      <content:encoded><![CDATA[<p><p><a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com#%24%3A%2Fui%2Fbuttons%2Fedit-in-new-window">$:/ui/buttons/edit-in-new-window</a></p><p>Very useful for note taking</p></p>]]></content:encoded>
+	  <pubDate>Thu, 06 Apr 2023 09:15:06 GMT</pubDate>
+      <link>https://libro.tiddlyhost.com#Added%20a%20button%20to%20edit%20a%20tiddler%20in%20a%20new%2C%20single%20window</link>
+      <guid isPermaLink='true'>https://libro.tiddlyhost.com#Added%20a%20button%20to%20edit%20a%20tiddler%20in%20a%20new%2C%20single%20window</guid>
+   </item><item>
+      <title>Updated $:/Feed/Settings</title>
+      <description></description>
+      <category>article</category>
+      <content:encoded><![CDATA[<p><p><a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://libro.tiddlyhost.com#%24%3A%2FFeed%2FSettings">$:/Feed/Settings</a></p></p>]]></content:encoded>
+	  <pubDate>Wed, 28 Dec 2022 21:47:38 GMT</pubDate>
+      <link>https://libro.tiddlyhost.com#Updated%20%24%3A%2FFeed%2FSettings</link>
+      <guid isPermaLink='true'>https://libro.tiddlyhost.com#Updated%20%24%3A%2FFeed%2FSettings</guid>
+   </item>
+</channel>
+</rss>
